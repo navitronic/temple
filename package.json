@@ -1,0 +1,10 @@
+{
+  "name": "temple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adrian Palmer <navitronic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "two.js": "^0.7.0-alpha.1"
+  }
+}
