@@ -5,6 +5,7 @@
   "author": "Adrian Palmer <navitronic@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "parcel-bundler": "^1.10.2",
     "two.js": "^0.7.0-alpha.1"
   }
 }
