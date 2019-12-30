@@ -1,9 +1,13 @@
-.main {
-  /* Reference an image file */
-  /*background: url('./images/background.png');*/
-  color: red;
+body {
+  background-color: #000;
 }
 
-.foo {
-	
+#c {
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px;
+  margin-top: -300px;
 }
